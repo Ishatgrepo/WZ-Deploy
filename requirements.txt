@@ -3,7 +3,7 @@ aiofiles
 aiohttp
 aioqbt
 aioshutil
-anytree==2.8.0
+anytree
 apscheduler
 asyncio-mqtt
 cinemagoer
@@ -31,7 +31,7 @@ py7zr
 pycountry
 pymongo
 pyrogram
-pyrofork
+pyrofork==2.2.11
 python-dotenv
 python-magic
 pytz
