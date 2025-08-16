@@ -9,6 +9,7 @@ RUN apt-get update && \
     unzip \
     p7zip-full \
     rar \
+    unar \
     unrar \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*    
