@@ -3,7 +3,7 @@ aiofiles
 aiohttp
 aioqbt
 aioshutil
-anytree
+anytree==2.8.0
 apscheduler
 asyncio-mqtt
 cinemagoer
